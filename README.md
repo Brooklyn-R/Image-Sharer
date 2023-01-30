@@ -1,5 +1,5 @@
 # Basic Image Share App
-## Python
+## Python & Bootstrap
 
 #### Usage
  Git clone <br/>
