@@ -1,9 +1,9 @@
 # Basic Image Sharer
 ## Python
 
-## Usage:
+#### Usage
  Git clone <br/>
  Python manage.py runserver
 
-##### 'http://localhost:8000/'
+###### `http://localhost:8000/`
 
