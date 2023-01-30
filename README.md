@@ -1,4 +1,4 @@
-# Image Sharer
+# Basic Image Sharer
 ## Python
 
 ## Usage:
